@@ -5,3 +5,4 @@ description = "All Jina AI APIs as Unix CLI commands. Search, read, embed, reran
 requires-python = ">=3.10"
 # clarify the control flow
 # avoid re-reading the config on every call
+# clarify the control flow
